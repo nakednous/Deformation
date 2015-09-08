@@ -10,8 +10,9 @@ import gab.opencv.*;
 import remixlab.bias.core.*;
 import remixlab.bias.event.*;
 import remixlab.proscene.*;
-import remixlab.dandelion.core.Constants.*;
+import remixlab.dandelion.addon.Constants.*;
 import remixlab.dandelion.geom.*;
+import remixlab.dandelion.addon.*;
 import remixlab.dandelion.core.*;
 
 //-----------------------------------------------
